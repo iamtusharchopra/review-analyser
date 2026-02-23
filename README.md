@@ -138,7 +138,7 @@ Your `reviews.csv` should look like this:
 
 ## 🚀 Future Ideas
 
-- [ ] Auto-fetch reviews directly from Google Play Console
+
 - [ ] Send email alerts when bad reviews spike
 - [ ] Build a dashboard to visualize review trends
 - [ ] Auto-generate reply suggestions for each review
