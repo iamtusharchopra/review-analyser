@@ -1,0 +1,26 @@
+review_id,reviewer_name,rating,date,review_text,app_version
+1,Priya Sharma,5,2024-01-05,"This app has completely transformed how I manage my daily tasks. Super smooth and intuitive!",3.2.1
+2,Rahul Mehta,1,2024-01-06,"The app crashes every single time I try to upload a photo. Lost all my work. Very frustrated.",3.2.1
+3,Anjali Verma,4,2024-01-07,"Love the app overall! Would be amazing if you could add a dark mode. My eyes hurt at night.",3.2.1
+4,Suresh Patel,2,2024-01-08,"Battery drain is insane. My phone loses 30% charge in just one hour of using this app.",3.2.1
+5,Meera Nair,5,2024-01-09,"Absolutely fantastic! The customer support team helped me resolve my issue within minutes. 10/10.",3.2.1
+6,Vikram Singh,3,2024-01-10,"Please add an option to export data as PDF or Excel. Would make this app perfect for work.",3.2.1
+7,Deepa Krishnan,1,2024-01-11,"My account got hacked and all my personal data was exposed. This is a serious security issue!",3.2.1
+8,Arun Kumar,5,2024-01-12,"The new update is incredibly fast. No more waiting around. Best app on my phone hands down.",3.2.2
+9,Sunita Reddy,4,2024-01-13,"Really helpful app! One suggestion - please add fingerprint login. Would save so much time.",3.2.2
+10,Karthik Iyer,2,2024-01-14,"Videos refuse to load even on 5G connection. This is a persistent bug since the last update.",3.2.2
+11,Pooja Bansal,5,2024-01-15,"I recommended this app to my entire office. Everyone loves it. Keep up the great work team!",3.2.2
+12,Nikhil Gupta,1,2024-01-16,"Charged me twice for the same subscription. Still waiting for a refund after 2 weeks. Unacceptable.",3.2.2
+13,Lakshmi Rao,4,2024-01-17,"Great app! It would be even better if you added a calendar view to track events over time.",3.2.2
+14,Rajesh Nambiar,5,2024-01-18,"Seamless experience from start to finish. The UI is clean and everything works exactly as expected.",3.2.2
+15,Sneha Joshi,2,2024-01-19,"Notifications stopped working after the last update. I'm missing important alerts because of this bug.",3.2.2
+16,Amit Chauhan,5,2024-01-20,"This app saves me at least 2 hours every day. Cannot imagine going back to the old way of doing things.",3.2.3
+17,Rekha Pillai,3,2024-01-21,"Can you please add multi-language support? Many of my family members can't use it in English only.",3.2.3
+18,Sanjay Malhotra,1,2024-01-22,"The search function is completely broken. It returns random results that have nothing to do with my query.",3.2.3
+19,Divya Menon,5,2024-01-23,"Just discovered the offline mode feature - total game changer! Works perfectly without internet.",3.2.3
+20,Rohit Saxena,4,2024-01-24,"Very good app. Please add an option to customize the home screen layout. Would make it perfect.",3.2.3
+21,Geeta Bhatt,1,2024-01-25,"Data sync is broken. I lost three days of work because it didn't back up properly. Heartbreaking.",3.2.3
+22,Manoj Tiwari,5,2024-01-26,"The app keeps getting better with every update. The team clearly listens to user feedback. Love it!",3.2.3
+23,Shweta Agarwal,2,2024-01-27,"Login takes forever - sometimes 2 to 3 minutes just to get in. This needs to be fixed urgently.",3.2.3
+24,Harish Bose,4,2024-01-28,"Would love a feature to share my progress reports directly to WhatsApp. That would be super useful.",3.2.3
+25,Nandita Kapoor,5,2024-01-29,"Flawless performance and beautiful design. I've tried 10 similar apps and this is by far the best.",3.2.3
