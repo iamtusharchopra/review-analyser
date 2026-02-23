@@ -6,8 +6,8 @@ import json
 # CONFIGURATION - Paste your Gemini API key here
 # ============================================================
 API_KEY = "paste-your-gemini-api-key-here"
-REVIEWS_FILE = r"C:\Users\Yukti\OneDrive\Desktop\review-analyzer\reviews.csv"
-OUTPUT_FILE = r"C:\Users\Yukti\OneDrive\Desktop\review-analyzer\analysis_results.csv"
+REVIEWS_FILE = "reviews.csv"
+OUTPUT_FILE = "analysis_results.csv"
 
 # ============================================================
 # STEP 1: Load reviews from CSV file
@@ -168,5 +168,6 @@ if __name__ == "__main__":
     df = load_reviews(REVIEWS_FILE)
     results = analyze_all_reviews(df, client)
     show_summary_and_save(results)
+
 
     print("\nDone!")
